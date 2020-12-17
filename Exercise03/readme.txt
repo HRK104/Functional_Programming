@@ -1,0 +1,1 @@
+put 'export PATH="/Users/suzukimiyuki/.local/bin:$PATH"' in the project repository in the terminal

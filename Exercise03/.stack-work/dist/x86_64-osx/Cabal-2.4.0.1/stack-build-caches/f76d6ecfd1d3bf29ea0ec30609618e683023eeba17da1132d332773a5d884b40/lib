@@ -1,0 +1,28 @@
+/Users/suzukimiyuki/Desktop/Functional_Programming/Exercise03/src/Theory.lhs:
+  hash: ee270bdf44e3d3faef25a0bad917979b2c4562b5be676e2d89ef3e7ec5875215
+/Users/suzukimiyuki/Desktop/Functional_Programming/Exercise03/src/Check.lhs:
+  hash: 295df3ca8ae0e09c1306f79c30e244b04f2b8f6cc5dc6915dda43332bb5b0697
+/Users/suzukimiyuki/Desktop/Functional_Programming/Exercise03/src/AST.lhs:
+  hash: fdd44d217d57084b2a43f0220a3289a091f6c989e9f049b7b1d3fec39f3dca4e
+/Users/suzukimiyuki/Desktop/Functional_Programming/Exercise03/src/Utilities.lhs:
+  hash: 9c6c287f74303fd9fca200dfaac437422e50658e5d137a4152eb297a5155ef74
+/Users/suzukimiyuki/Desktop/Functional_Programming/Exercise03/prfchk.cabal:
+  hash: 0ee586bd1feaa596f954686c252bd0c338ee295ca34aeb860a658d390aac19ab
+/Users/suzukimiyuki/.stack/programs/x86_64-osx/ghc-8.6.4/lib/ghc-8.6.4/include/ghcversion.h:
+  hash: 529291d4a255ef1c3ec99116d8dca391f2db7bad8b5eab6dcbf9a70354c6eedf
+/Users/suzukimiyuki/Desktop/Functional_Programming/Exercise03/ChangeLog.md:
+  hash: 1d7b06843ddf84f8a425883684ec537ba98e05cbe71f2b5b503cf1986065b0c7
+/Users/suzukimiyuki/Desktop/Functional_Programming/Exercise03/README.md:
+  hash: d766735c4348131f293c41ba22ba423a413c8d467631d90f342558d3b503bb03
+/Users/suzukimiyuki/Desktop/Functional_Programming/Exercise03/src/HParse.lhs:
+  hash: 42e58919e298b5f08a4450c7a0a8df6aa99a573d954b8c71eeafdd8d9a65e94a
+/Users/suzukimiyuki/Desktop/Functional_Programming/Exercise03/src/Matching.lhs:
+  hash: 9f5dedb7cf6cf55eef48023bf5d18d2d77f618b6f59c0994a28c5b4434948c83
+/Users/suzukimiyuki/Desktop/Functional_Programming/Exercise03/src/REPL.lhs:
+  hash: 2111f02d30fd145bed327cbf1b5d6a04ffe106941a09b55179181a469bef718d
+? /Users/suzukimiyuki/Desktop/Functional_Programming/Exercise03/.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/autogen/Paths_prfchk.hs
+: hash: 109603c6e1ebd25e9a618f07eecc4494dd1f42a11fec4e247cc7def191120e1c
+/Users/suzukimiyuki/Desktop/Functional_Programming/Exercise03/package.yaml:
+  hash: a40d5e1a456fba3ea2e40c09dacdb9d69ab86b9bdc00dac37ac9122e49bc5426
+? /Users/suzukimiyuki/Desktop/Functional_Programming/Exercise03/.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/autogen/cabal_macros.h
+: hash: 3e2f394b3b832fcc6ed4925ca5a6ffdb7afc6d13cdd2e41468a6d0e6348e44df
